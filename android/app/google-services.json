@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "391139883070",
+    "project_id": "flash-chat-4d821",
+    "storage_bucket": "flash-chat-4d821.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391139883070:android:27b370efa0404de4b5f96f",
+        "android_client_info": {
+          "package_name": "co.pranavvarma.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "391139883070-h6a7nec7icb2o6q2ihihl03eftaha5ra.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkNY6CEdBrbTeRCenhDJWZsBdcRt7nZYw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "391139883070-h6a7nec7icb2o6q2ihihl03eftaha5ra.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
